@@ -1,6 +1,6 @@
 # Claude Certified Architect – Professional (CCAR-P) Exam Prep
 
-**Free video course · my 167-page study notes · condensed exam guide · 20 sample practice questions** — everything you need to start preparing for Anthropic's Claude Certified Architect – Professional certification.
+**Free video course · my 167-page study notes · condensed exam guide · 20 representative practice questions** — everything you need to start preparing for Anthropic's Claude Certified Architect – Professional certification.
 
 [![YouTube](https://img.shields.io/badge/▶️_YouTube-Watch_the_free_course-red?logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLS3h0TTAvZGs)
 [![Newsletter](https://img.shields.io/badge/📬_Newsletter-Diary_of_an_AI_Architect-FF6719?logo=substack&logoColor=white)](https://newsletter.karuparti.com)
@@ -9,7 +9,7 @@
 
 > [!IMPORTANT]
 > ## 🚀 NEW — My CCAR-P Practice Tests are now live on Udemy!
-> **300 original questions · 4 full-length timed mock exams (63 Qs / 120 min) · detailed rationales for every answer**
+> **300 representative practice questions · 4 full-length timed mock exams (63 Qs / 120 min) · detailed rationales for every answer**
 >
 > **👉 [Get the full 300-question practice tests on Udemy — now live!](https://www.udemy.com/course/new-claude-certified-architect-professional-ccar-p-tests/?couponCode=MT261005G1)**
 >
@@ -61,7 +61,7 @@ These are **my own notes, not a copy of the course**. The original course is fre
 - **My notes on all five official prep modules** — screen-by-screen takeaways, glossary, and checkpoint notes in my own words, mapped to the seven exam domains
 - **Day-before cheat sheet** — the frameworks, decision tables, and traps to memorize
 - **Official sample questions** from the public exam guide
-- **64-question practice bank** mirroring the real item mix — every question original, each with a full rationale
+- **64-question practice bank** mirroring the real item mix — every question is a representative practice item with a full rationale
 
 ## 📝 Try a sample question
 
@@ -88,7 +88,7 @@ These are **my own notes, not a copy of the course**. The original course is fre
 
 ## 🎯 Want the full guide?
 
-The 20 samples here come from my **300-question practice bank**: **4 realistic mock exams × 63 questions (120 minutes each) + 48 lesson-revision questions = 300 unique questions**. Every question has a detailed rationale explaining why the right answer is right *and* why each wrong answer is wrong.
+The 20 samples here come from my **300-question practice bank**: **4 realistic mock exams × 63 questions (120 minutes each) + 48 lesson-revision questions = 300 representative practice questions**. Every question has a detailed rationale explaining why the right answer is right *and* why each wrong answer is wrong.
 
 Each mock uses **D1–D7 counts of 11, 8, 12, 10, 9, 9, 4**, an integer rounding of the published **17/13/19/16/14/14/7%** blueprint weights, not an official per-exam allocation. Each contains **55 single-answer and 8 multiple-response questions**; that mix is an authorial choice, **not an official exam ratio**.
 
@@ -110,7 +110,7 @@ Choose **Practice mode within each Udemy test** for focused review using lesson-
 
 ## Disclaimer
 
-This is an **unofficial** study resource and is not affiliated with, sponsored by, or endorsed by Anthropic. All practice questions are original work, written against the publicly available exam-guide blueprint — no recalled or leaked exam items are reproduced here. The study guide PDF contains my own notes, written while taking Anthropic's official prep course (free, registration required); it is not a copy of the course and does not reproduce its text, and it is shared for personal exam preparation only. Claude and Anthropic are trademarks of Anthropic, PBC. Exam details change; always verify against the [official certification page](https://anthropic-partners.skilljar.com/path/claude-certified-architect-professional).
+This is an **unofficial** study resource and is not affiliated with, sponsored by, or endorsed by Anthropic. All practice questions are written in a representative exam-style format against the publicly available exam-guide blueprint — no recalled or leaked exam items are reproduced here. The study guide PDF contains my own notes, written while taking Anthropic's official prep course (free, registration required); it is not a copy of the course and does not reproduce its text, and it is shared for personal exam preparation only. Claude and Anthropic are trademarks of Anthropic, PBC. Exam details change; always verify against the [official certification page](https://anthropic-partners.skilljar.com/path/claude-certified-architect-professional).
 
 ---
 

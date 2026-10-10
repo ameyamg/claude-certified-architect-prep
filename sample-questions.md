@@ -1,10 +1,10 @@
 # CCAR-P Sample Questions
 
-20 sample questions from my **300-question practice bank** for the **Claude Certified Architect – Professional (CCAR-P)** exam — four per lesson of the [free video course](https://youtube.com/playlist?list=PLS3h0TTAvZGs), so you can test yourself after each lesson.
+20 representative sample questions from my **300-question practice bank** for the **Claude Certified Architect – Professional (CCAR-P)** exam — four per lesson of the [free video course](https://youtube.com/playlist?list=PLS3h0TTAvZGs), so you can test yourself after each lesson.
 
-Every question is an original scenario aligned with the published blueprint (multiple-choice and multiple-response), and comes with a full rationale explaining why the right answer is right *and* why each wrong answer is wrong. Practise model-agnostic architecture principles alongside Claude-specific certification preparation.
+Each question is a realistic exam-style scenario aligned with the published blueprint (multiple-choice and multiple-response), and comes with a full rationale explaining why the right answer is right *and* why each wrong answer is wrong. Practise model-agnostic architecture principles alongside Claude-specific certification preparation.
 
-🎯 **Want the full guide?** **4 realistic mocks × 63 questions (120 minutes each) + 48 lesson-revision questions = 300 unique questions** on Udemy: [Full course on Udemy (coming soon)](#).<!-- TODO: replace # with Udemy course URL -->
+🎯 **Want the full guide?** **4 realistic mocks × 63 questions (120 minutes each) + 48 lesson-revision questions = 300 representative questions** on Udemy: [Full course on Udemy (coming soon)](#).<!-- TODO: replace # with Udemy course URL -->
 
 Each mock uses D1–D7 counts of **11, 8, 12, 10, 9, 9, 4**, rounded from the **17/13/19/16/14/14/7%** blueprint weights. Each has **55 single-answer and 8 multiple-response questions** — an authorial choice, not an official exam ratio or per-exam domain allocation.
 
@@ -410,7 +410,7 @@ CI needs both non-interactive handling and an enforced capability boundary. Expl
 
 ## Ready for the other 280?
 
-These 20 questions are a sample. The full guide — **4 realistic 63-question, 120-minute mocks + 48 lesson-revision questions = 300 unique original questions**, all with detailed rationales — is on Udemy: [Full course on Udemy (coming soon)](#).<!-- TODO: replace # with Udemy course URL -->
+These 20 questions are a sample. The full guide — **4 realistic 63-question, 120-minute mocks + 48 lesson-revision questions = 300 representative practice questions**, all with detailed rationales — is on Udemy: [Full course on Udemy (coming soon)](#).<!-- TODO: replace # with Udemy course URL -->
 
 ▶️ [Free video course](https://youtube.com/playlist?list=PLS3h0TTAvZGs) · 📬 [Diary of an AI Architect](https://newsletter.karuparti.com)
 
